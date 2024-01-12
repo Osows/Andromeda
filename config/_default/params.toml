@@ -47,7 +47,7 @@ link = "signup/"
 [metadata]
 keywords = ["Hugo", "GetHugoThemes", "Themefisher"]
 description = "Software and SAAS Landing Hugo Theme"
-author = "Gethugothemes"
+author = "Osows"
 image = "images/og-image.jpg" # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/
